@@ -47,22 +47,6 @@ In my spare time, I enjoy contributing to open-source projects and participating
 • Skills: Web Development, Database Management, Full-Stack Development
 #
 
-### 📊 Stats
-
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashav-shukla&hide_progress=true&theme=transparent" alt=yashav-shukla />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yashav-shukla&show_icons=true&locale=en&theme=transparent" alt="yashav-shukla" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashav-shukla&theme=transparent" alt="yashav-shukla" /></p>
-
-#
-### Statistics
-<div align="center">
-<a href="https://github.com/yashav-shukla">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashav-shukla&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashav-shukla&theme=transparent" height="180em" />
-</div>
 #
   
 <h2>⚡Activity Graph:</h2>

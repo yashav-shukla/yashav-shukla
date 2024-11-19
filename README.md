@@ -36,7 +36,11 @@ In my spare time, I enjoy contributing to open-source projects and participating
 🔹 Tech Stack:
 
 • Languages: HTML, CSS, JavaScript, Python, PHP, SQL , React.js, Node.js
+
+
 • Database:  MongoDB, MySql
+
+
 • Development Tools: VS Code
 • Skills: Web Development, Database Management, Full-Stack Development
 #

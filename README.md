@@ -42,6 +42,8 @@ In my spare time, I enjoy contributing to open-source projects and participating
 
 
 • Development Tools: VS Code
+
+
 • Skills: Web Development, Database Management, Full-Stack Development
 #
 

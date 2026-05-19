@@ -1,55 +1,163 @@
-# 🏄‍♂️ Yashav Shukla
+<div align="center">
 
-**`🎓 B.Tech Graduate ( Aspiring Software Engineer, MERN Stack Developer )`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yashav%20Shukla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20Engineer&descAlignY=55&descSize=16"/>
 
-I am a recent graduate of B.Tech in Computer Science and Engineering from Apollo Institute of Technology, Kanpur. As a passionate software engineer, I am proficient in HTML, CSS, SQL, PHP, JavaScript, React.js, Node.js and Python. I am eager to apply my technical skills and innovative mindset to create impactful software solutions that enhance user experiences.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+🚀;MERN+Stack+Developer+💻;Open+to+SDE-1+Roles+🔥;Open+Source+Contributor+🌍;Always+Learning+Always+Building+✨)](https://git.io/typing-svg)
 
-  <a href="mailto:yashavshukla1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-   </p>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashavshukla1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashav-shukla)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashav-shukla)
+[![Profile Views](https://komarev.com/ghpvc/?username=yashav-shukla&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/yashav-shukla)
+
+</div>
 
 ---
 
-### 🧰 Languages and Tools
+# 🧑‍💻 About Me
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img align="left" alt="MYSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+```javascript
+const yashav = {
+  role: "Full-Stack Developer",
 
+  education:
+    "B.Tech CSE · Apollo Institute of Technology, Kanpur",
 
+  skills: {
+    frontend: [
+      "React.js",
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3"
+    ],
 
-<br />
+    backend: [
+      "Node.js",
+      "Express.js"
+    ],
 
-#
+    databases: [
+      "MongoDB",
+      "MySQL"
+    ],
 
-### 📺  My Journey
+    languages: [
+      "JavaScript",
+      "Python",
+      "C++"
+    ]
+  },
 
-Throughout my academic journey, I have actively engaged in various extracurricular activities, including Toastmasters Club and Science Club, where I honed my communication, leadership, and problem-solving abilities. I am a dedicated learner who thrives on exploring emerging technologies and staying updated with the latest industry trends.
+  currentlyLearning: [
+    "Next.js",
+    "System Design",
+    "Data Structures & Algorithms"
+  ],
 
-In my spare time, I enjoy contributing to open-source projects and participating in coding challenges to continuously expand my knowledge and skills. I am excited to collaborate with like-minded individuals and be part of projects that push the boundaries of technology.
+  openTo: [
+    "SDE-1 Roles",
+    "Full-Stack Development",
+    "Frontend Development",
+    "Backend Development",
+    "Remote Opportunities"
+  ]
+};
+```
 
-🔹 Tech Stack:
+- 🎓 B.Tech in Computer Science & Engineering
+- 💼 Open to SDE-1, Full-Stack, Frontend, and Backend opportunities
+- 🚀 Building scalable and user-friendly web applications
+- 🤝 Open-source contributor with multiple public repositories
+- 🎤 Toastmasters member focused on communication & leadership
+- 💡 Passionate about solving real-world problems through technology
 
-• Languages: HTML, CSS, JavaScript, Python, PHP, SQL , React.js, Node.js
+---
 
+# 🛠️ Tech Stack
 
-• Database:  MongoDB, MySql
+### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-• Development Tools: VS Code
+### Backend & Database
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-• Skills: Web Development, Database Management, Full-Stack Development
-#
+### Languages & Tools
 
-#
-  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| [📈 Stock Market Dashboard](https://github.com/yashav-shukla/Stock_Market_Dashboard-EazyBytes) | Real-time stock dashboard with interactive charts | React, TypeScript |
+| [🎲 Rubik's Cube Simulation](https://github.com/yashav-shukla/Rubik-s-Cube-Simulation) | Interactive Rubik’s Cube simulation built in JavaScript | JavaScript |
+| [🧾 Invoice Generator](https://github.com/yashav-shukla/invoice-generator-react) | Professional invoice generation web application | React, CSS |
+| [🍺 Beer Catalog App](https://github.com/yashav-shukla/Beer-Catalog-Application) | Responsive beer catalog and filtering app | React, JavaScript |
+| [🔗 Refer & Earn App](https://github.com/yashav-shukla/Refer-Earn-accredian-frontend) | Referral platform frontend developed for Accredian | React |
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yashav-shukla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashav-shukla&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yashav-shukla&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Yashav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashav-shukla&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏅 Achievements
+
+- 🦈 Earned GitHub Pull Shark achievement
+- 📁 Built and maintained multiple public repositories
+- 🎤 Toastmasters member with leadership & speaking experience
+- 💻 Active open-source contributor
+- 🚀 Passionate about building impactful software products
+
+---
+
+<div align="center">
+
+# 💬 Let's Connect
+
+[![Say Hello](https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashavshukla1@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashav-shukla)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>

@@ -55,8 +55,6 @@ const yashav = {
     "Backend Development",
     "Remote Opportunities"
   ],
-
-  goal: "To become a high-impact Software Engineer in a product-based company"
 };
 ```
 

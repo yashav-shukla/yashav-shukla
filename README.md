@@ -17,40 +17,34 @@
 
 ```javascript
 const yashav = {
-  role: "Full-Stack Developer",
+  name: "Yashav Shukla",
+  role: "Full-Stack Developer (MERN)",
 
-  education:
-    "B.Tech CSE · Apollo Institute of Technology, Kanpur",
+  education: "B.Tech CSE · Apollo Institute of Technology, Kanpur",
+
+  focus: [
+    "Building production-ready scalable web applications",
+    "Designing clean UI/UX with strong backend systems",
+    "Writing efficient and maintainable code"
+  ],
+
+  coreStrengths: [
+    "React.js + Node.js Development",
+    "REST API Design & Integration",
+    "MongoDB Schema & Data Modeling",
+    "Frontend Performance Optimization"
+  ],
 
   skills: {
-    frontend: [
-      "React.js",
-      "JavaScript",
-      "TypeScript",
-      "HTML5",
-      "CSS3"
-    ],
-
-    backend: [
-      "Node.js",
-      "Express.js"
-    ],
-
-    databases: [
-      "MongoDB",
-      "MySQL"
-    ],
-
-    languages: [
-      "JavaScript",
-      "Python",
-      "C++"
-    ]
+    frontend: ["React.js", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+    backend: ["Node.js", "Express.js"],
+    databases: ["MongoDB", "MySQL"],
+    languages: ["JavaScript", "Python", "C++"]
   },
 
-  currentlyLearning: [
-    "Next.js",
+  currentlyImproving: [
     "System Design",
+    "Advanced Backend Architecture",
     "Data Structures & Algorithms"
   ],
 
@@ -60,7 +54,9 @@ const yashav = {
     "Frontend Development",
     "Backend Development",
     "Remote Opportunities"
-  ]
+  ],
+
+  goal: "To become a high-impact Software Engineer in a product-based company"
 };
 ```
 

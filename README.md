@@ -100,11 +100,12 @@ const yashav = {
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| [📈 Stock Market Dashboard](https://github.com/yashav-shukla/Stock_Market_Dashboard-EazyBytes) | Real-time stock dashboard with interactive charts | React, TypeScript |
-| [🎲 Rubik's Cube Simulation](https://github.com/yashav-shukla/Rubik-s-Cube-Simulation) | Interactive Rubik’s Cube simulation built in JavaScript | JavaScript |
-| [🧾 Invoice Generator](https://github.com/yashav-shukla/invoice-generator-react) | Professional invoice generation web application | React, CSS |
-| [🍺 Beer Catalog App](https://github.com/yashav-shukla/Beer-Catalog-Application) | Responsive beer catalog and filtering app | React, JavaScript |
-| [🔗 Refer & Earn App](https://github.com/yashav-shukla/Refer-Earn-accredian-frontend) | Referral platform frontend developed for Accredian | React |
+| [📅 Full-stack Booking Appointment App](https://github.com/yashav-shukla/Full-stack-Booking-Appointment-App) | Full-stack appointment booking system with MVC architecture, CRUD operations and MySQL database | Node.js, Express.js, MySQL, Sequelize, MVC |
+| [🚌 Bus Booking System API](https://github.com/yashav-shukla/bus-booking-system-api) | REST API for bus booking with user management and seat availability filtering | Node.js, Express.js, MySQL |
+| [🗄️ Bus Booking System Schema](https://github.com/yashav-shukla/Bus-Booking-System-Schema) | Database schema design for bus booking system including users, buses, bookings, payments | MySQL |
+| [⚙️ Basic Express Server](https://github.com/yashav-shukla/Create-a-Basic-Express-Server) | Simple Express server setup demonstrating routing and backend structure | Node.js, Express.js |
+| [🗑️ Deleting User Details API](https://github.com/yashav-shukla/Deleting-User-Details) | API to delete user records with proper error handling | Node.js, Express.js |
+| [🛒 E-Commerce API](https://github.com/yashav-shukla/E-Commerce-API) | Backend API for e-commerce system with core CRUD features | Node.js, Express.js, MySQL |
 
 </div>
 
